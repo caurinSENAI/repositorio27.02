@@ -17,10 +17,21 @@ form{
 #ienviar:active{
     background-color: red;
 }
+#inputnome:focus{
+    background-color: aqua;
+    border: none;
+}
+#inputemail:focus{
+    border: none;
+    background-color: aqua;
+}
 #inputnome{
     border: solid;
+    margin: 30px;
 }
 #inputemail{
     border: solid;
+    margin: 30px;
 }
+
 

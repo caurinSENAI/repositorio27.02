@@ -3,11 +3,13 @@ form{
     display: flex;
     width: 50%;
     margin: auto;
+    
 }
 #ienviar{
     width: 10%;
     margin:auto;
     background-color: aqua;
+    border: solid;
 }
 #ienviar:hover{
     background-color: black;
@@ -15,3 +17,10 @@ form{
 #ienviar:active{
     background-color: red;
 }
+#inputnome{
+    border: solid;
+}
+#inputemail{
+    border: solid;
+}
+
